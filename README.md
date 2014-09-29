@@ -1,10 +1,10 @@
-shallow-scheme
+Shallo-Scheme
 ==============
-shallow-scheme is my own implementation of Scheme language.
+Shallo-Scheme is my own implementation of Scheme language.
 
 Many essential elements of Scheme language are implemented.
 
-(But, this implementation does NOT meet any official Scheme SPEC such as R5RS, R6RS. So, shallow-scheme is not Scheme exactly.)
+(But, this implementation does NOT meet any official Scheme SPEC such as R5RS, R6RS. So, Shallo-Scheme is not Scheme exactly.)
 
 
 ### Features ###
@@ -22,10 +22,10 @@ Many essential elements of Scheme language are implemented.
 
 What is shallow?
 ----------------
-Of course my knowledge and technique of language-implementation...
-This is my first time of implementing programming-language-interpreter, so I have done almost all things by feel.
+Of course my knowledge and technique of language-implementation and C-language-programming are.
+This is my first time of implementing programming-language-interpreter, so I have done almost all things by feel (my own way).
 
 Destination
 -----------
 This was developed completely for my learning.
-I want update (or remake) this in the future when having time.
+I feel like updating (or remaking) and documenting this in the future when having time.
