@@ -13,7 +13,7 @@ For example,
 (But, this implementation does NOT meet any official Scheme SPEC such as R5RS, R6RS. So, shallow-scheme is not Scheme exactly.)
 
 
-what is shallow?
+What is shallow?
 ----------------
 Of course my knowledge and technique of language-implementation...
 This is my first time of implementing programming-language-interpreter, so I have done almost all things by feel.
