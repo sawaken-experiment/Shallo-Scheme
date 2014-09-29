@@ -14,6 +14,11 @@ Many essential elements of Scheme language are implemented.
     Exception System
     Garbage Collector
 
+### Usage ###
+    $ cd src
+    $ make
+    $ ./scheme [source file]
+
 
 What is shallow?
 ----------------
