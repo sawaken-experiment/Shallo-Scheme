@@ -20,11 +20,20 @@ Many essential elements of Scheme language are implemented.
     $ make
     $ ./scheme [source file]
 
+### Try REPL (Read-Eval-Print-Loop) after make ###
+    $ cd Shallo-Scheme/sample_program
+    $ ../src/scheme repl.scm
+
 
 What is shallow?
 ----------------
 Of course my knowledge and technique of language-implementation and C-language-programming are.
 This is my first time of implementing programming-language-interpreter, so I have done almost all things by feel (my own way).
+
+Bugs
+----
+There are countless Bugs in Shallo-Scheme...
+And surprisingly, there are no Tests for this program...
 
 Destination
 -----------
