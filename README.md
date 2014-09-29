@@ -15,7 +15,8 @@ Many essential elements of Scheme language are implemented.
     Garbage Collector
 
 ### Usage ###
-    $ cd src
+    $ git clone https:/github.com/sawaken/Shallo-Scheme.git
+    $ cd Shallo-Scheme/src
     $ make
     $ ./scheme [source file]
 
