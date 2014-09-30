@@ -1,6 +1,6 @@
 Shallo-Scheme
 ==============
-Shallo-Scheme is my own implementation of Scheme language.
+Shallo-Scheme is my own implementation of Scheme interpreter.
 
 Many essential elements of Scheme language are implemented.
 
